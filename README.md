@@ -4,12 +4,9 @@
 
 - The Eye-Quality (EyeQ) Assessment Dataset is a re-annotated subset of the EyePACS dataset that is used to measure fundus image quality.
 
-
 - The EyeQ dataset contains 28,792 retinal pictures with three quality levels ('Good,' 'Usable,' and 'Reject'). 
 
-
 - The original fundus images could be downloaded from the EyePACS dataset.
-- The quality label you can download  and put in the 'data_dir' folder.
 
 -  We also release our FGR-Net model in the './UNetvgg' folder.
 
