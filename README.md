@@ -9,7 +9,7 @@
 
 
 - The original fundus images could be downloaded from the EyePACS dataset.
-- The quality label you can download  and put in the 'data_dir' folder, where the 
+- The quality label you can download  and put in the 'data_dir' folder.
 
 -  We also release our FGR-Net model in the './UNetvgg' folder.
 
