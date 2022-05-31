@@ -8,7 +8,7 @@
 
 - The original fundus images could be downloaded from the EyePACS dataset.
 
--  We also release our FGR-Net model in the './UNetvgg' folder.
+-  We also release our FGR-Net model in the './FGRNET' folder.
 
 - If you use the Eye-Quality (EyeQ) dataset, you can find in the following papers:
 [1] Huazhu Fu, Boyang Wang, Jianbing Shen, Shanshan Cui, Yanwu Xu, Jiang Liu, Ling Shao, "Evaluation of Retinal Image Quality Assessment Networks in Different Color-spaces", In MICCAI, 2019. 
